@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* style Navbar*/
+.navigation{
+    height:150px;
+    display: flex;
+  
+    background-color: red;
+
+}
+.logo-image{
+    background-image: url(image.png);
+    width: 22vh;
+    height:150px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.navigation-heading{
+    margin-left: 20px;
+    color: white;
+    margin-top: 20px;
+    font-size: 1.4rem;
+}
+h5{
+    align-items: center;
+    text-align: center;
+}
+h4{
+    align-items: center;
+    text-align: center;
+}
+.photo{
+    width:220vh;
+}
+h2{
+    align-items: center;
+    text-align: center;
+}
+h6{
+    align-items: center;
+    text-align: center;
+}
+.panal{
+    height: 60px;
+    background-color: whitesmoke;
+}
+select{
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 1rem;
+    border-color:white;
+    cursor: pointer;
+    margin: 30px;
+}
+select :hover{
+    background-color: whitesmoke;
+}
+option{
+    background-color: cornflowerblue;
+}
+/* style for panel*/
+.panel-1{
+    height: 30px;
+    background-color:burlywood;
+    
+}
+/* Explore SBGI*/
+.section-2{
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    background-color: wheat;
+    height: 50px;
+
+}
+button{
+    margin-top: 5px;
+    border-radius: 1rem;
+   border: none;
+   cursor:progress;
+}
+
+h3{
+    text-align:center ;
+    font-size: 1.5rem;
+    background-color: whitesmoke;
+}
+/* Our Mangment*/
+.img{
+    width: 220vh;
+}
+img{
+    width: 500px;
+}
+/* style for information*/
+.Last-section{
+    display: flex;
+    align-items: center;
+    background-color: darkgray;
+   
+}
+.ACADEMIC{
+    margin: 50px;
+    cursor: pointer;
+}
+.About-us{
+    cursor: pointer;
+}
+.contact-us{
+    cursor: pointer;
+}
